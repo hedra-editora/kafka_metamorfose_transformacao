@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  16 APR 2019 16:48
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  16 APR 2019 17:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1618,10 +1618,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-
+)
 [4
 
-]) [5] [6]
+]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
  (./LIVRO.toc
@@ -1629,10 +1629,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-) [7]
+) [5]
 \openout2 = `INPUTS.aux'.
 
- (./INPUTS.tex (./INTRO.tex [8
+ (./INPUTS.tex (./INTRO.tex [6
 
 
 
@@ -1648,7 +1648,7 @@ Class memoir Warning: The material used in the headers is too large
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 47.
 
-[9]
+[7]
 Overfull \vbox (7.108pt too high) has occurred while \output is active []
 
 
@@ -1658,14 +1658,14 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[10]
+[8]
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[11]
+[9]
 Overfull \vbox (6.95601pt too high) has occurred while \output is active []
 
 
@@ -1675,7 +1675,7 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
+[10]
 Overfull \vbox (16.60797pt too high) has occurred while \output is active []
 
 
@@ -1685,7 +1685,7 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[13]
+[11]
 Overfull \vbox (7.10797pt too high) has occurred while \output is active []
 
 
@@ -1695,7 +1695,7 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]
+[12]
 Overfull \vbox (19.60797pt too high) has occurred while \output is active []
 
 
@@ -1705,7 +1705,7 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[15]
+[13]
 Overfull \vbox (7.60797pt too high) has occurred while \output is active []
 
 
@@ -1715,7 +1715,24 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+[14]
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [16]
+Overfull \vbox (10.10797pt too high) has occurred while \output is active []
+
+
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
  Make it at least 14.49998pt.
@@ -1730,23 +1747,6 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  This may cause the page layout to be inconsistent, however.
 
 [18]
-Overfull \vbox (10.10797pt too high) has occurred while \output is active []
-
-
-
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[19]
-
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[20]
 Underfull \hbox (badness 1117) in paragraph at lines 381--394
 []\TU/LinuxLibertineO(0)/m/n/12 Entretanto, a preferência parece tender ao míst
 ico.
@@ -1762,6 +1762,20 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
+[19]
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]) (./TEXTO.tex
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [21]
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
@@ -1769,26 +1783,26 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[22]) (./TEXTO.tex
+[22] [23
 
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[23]
-
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[24] [25
-
-] [26]
+] [24]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25]
+
+Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
  Make it at least 14.49998pt.
@@ -1964,6 +1978,11 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  This may cause the page layout to be inconsistent, however.
 
 [51]
+Underfull \hbox (badness 2503) in paragraph at lines 795--803
+[]\TU/LinuxLibertineO(0)/m/n/12 Esses pensamentos, inúteis na sua situação atua
+l,
+ []
+
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
  Make it at least 14.49998pt.
@@ -1978,11 +1997,6 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  This may cause the page layout to be inconsistent, however.
 
 [53]
-Underfull \hbox (badness 2503) in paragraph at lines 795--803
-[]\TU/LinuxLibertineO(0)/m/n/12 Esses pensamentos, inúteis na sua situação atua
-l,
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
  Make it at least 14.49998pt.
@@ -2206,7 +2220,7 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[85]
+[85]))
 
 Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
  Make it at least 14.49998pt.
@@ -2220,21 +2234,7 @@ Package Fancyhdr Warning: \headheight is too small (14.22636pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[87]))
-
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[88]
-
-Package Fancyhdr Warning: \headheight is too small (14.22636pt): 
- Make it at least 14.49998pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[89]
+[87]
 
 Class memoir Warning: The material used in the headers is too large
 (14.49998pt) for the given head height (14.22636pt), it is recommended to
@@ -2257,7 +2257,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-[90
+[88
 
 
 
@@ -2267,10 +2267,10 @@ Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [91] [92] [93])
+ [89] [90] [91])
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 121.
- [94
+ [92
 
 
 ]
@@ -2285,10 +2285,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  26471 strings out of 493010
  485154 string characters out of 6140134
- 741140 words of memory out of 5000000
+ 741111 words of memory out of 5000000
  29967 multiletter control sequences out of 15000+600000
  542160 words of font info for 95 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  49i,14n,85p,10427b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (94 pages, 1682380 bytes).
+Output written on LIVRO.xdv (92 pages, 1680360 bytes).

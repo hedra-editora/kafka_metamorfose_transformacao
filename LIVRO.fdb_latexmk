@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1555450047 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1555450048
-  "LIVRO.xdv" 1555450047 1699380 69d18711c5bbd7b0b21fe6ae75b21e01 "xelatex"
+["xdvipdfmx"] 1555450437 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1555450438
+  "LIVRO.xdv" 1555450437 1699528 5f10ee23fd437d6b1d74ae6dc2e5c08c "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1555450045 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1555450048
+["xelatex"] 1555450435 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1555450438
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1555004495 10790 96c766e00e9b32ca67d3577868082db2 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492700150 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -153,25 +153,25 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1510784347 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
-  "INPUTS.aux" 1555450047 1914 c46ff8d4d829481645da6b93a0763ff6 ""
+  "INPUTS.aux" 1555450437 1914 c46ff8d4d829481645da6b93a0763ff6 ""
   "INPUTS.tex" 1555439333 59 154656bfa57a9735928419b38ca87e20 ""
   "INTRO.tex" 1555447720 30743 e9fdaf62cc7644c99cb2b6f33a6b7d3a ""
-  "LIVRO.aux" 1555450047 501 7f797fd8af1b45dd20101a14e8b04d00 ""
+  "LIVRO.aux" 1555450437 501 7f797fd8af1b45dd20101a14e8b04d00 ""
   "LIVRO.tex" 1555449969 3638 a9b73a92633e4cd5fe8c7fd735a61bc7 ""
-  "LIVRO.toc" 1555450047 231 a7a8379ebcf51fbfbaad474db1c6402b ""
+  "LIVRO.toc" 1555450437 231 a7a8379ebcf51fbfbaad474db1c6402b ""
   "PRETAS.tex" 1555446938 2422 5ba0a713a9a556b733c9be7c787694f1 ""
-  "PUBLICIDADE.aux" 1555450047 1740 b07df9e02bd5de15d8b6fef431fb3125 ""
+  "PUBLICIDADE.aux" 1555450437 1740 b07df9e02bd5de15d8b6fef431fb3125 ""
   "TEXTO.tex" 1555447720 121297 95779545eb8169c014f173c791e0a025 ""
   "fichatecnica.sty" 1555439556 2316 1d10342e11548ab85099c380736628cc ""
-  "fronthedra.tex" 1555447809 3956 3215be6739ec566cf52434ef3cc3b512 ""
+  "fronthedra.tex" 1555450432 3974 821dcdf70e068bfcf53efd453e091566 ""
   "frontlayout.sty" 1555449059 1456 71daef631062bea3bd6711cdd913eab2 ""
-  "gitrevisioninfo.sty" 1555450039 35 4c231f9000270ac98a51fbfde299c3da ""
+  "gitrevisioninfo.sty" 1555450434 35 aef2151f35350d12824230de2161be23 ""
   "hedraextra.sty" 1555439333 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   "hedraoptions.sty" 1555450037 3589 9fab769cbeabd384b5862a8cfc7f3d7e ""
   (generated)
-  "INPUTS.aux"
-  "PUBLICIDADE.aux"
-  "LIVRO.toc"
   "LIVRO.xdv"
-  "LIVRO.log"
+  "INPUTS.aux"
   "LIVRO.aux"
+  "PUBLICIDADE.aux"
+  "LIVRO.log"
+  "LIVRO.toc"

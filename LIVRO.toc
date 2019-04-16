@@ -1,4 +1,5 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Introdução, por Celso Donizete Cruz}{9}
+\contentsline {part}{A metamorfose}{27}
 \contentsfinish 

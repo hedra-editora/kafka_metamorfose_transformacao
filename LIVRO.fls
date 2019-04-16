@@ -23,8 +23,8 @@ INPUT /usr/share/texmf-dist/tex/latex/memoir/mem12.clo
 INPUT /usr/share/texmf-dist/tex/latex/memoir/mempatch.sty
 INPUT /usr/share/texmf-dist/tex/latex/memoir/mempatch.sty
 INPUT /usr/share/texmf-dist/tex/latex/memoir/mempatch.sty
-INPUT /home/editorial/texmf/tex/hedraoptions.sty
-INPUT /home/editorial/texmf/tex/hedraoptions.sty
+INPUT hedraoptions.sty
+INPUT hedraoptions.sty
 INPUT /home/editorial/texmf/tex/hedrastyles.sty
 INPUT /home/editorial/texmf/tex/hedrastyles.sty
 INPUT /usr/share/texmf-dist/tex/latex/textcase/textcase.sty

@@ -242,6 +242,8 @@ INPUT /home/editorial/texmf/tex/versos.sty
 INPUT /home/editorial/texmf/tex/versos.sty
 INPUT gitrevisioninfo.sty
 INPUT gitrevisioninfo.sty
+INPUT /usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/afterpage.sty
 INPUT /home/editorial/texmf/tex/commands.sty

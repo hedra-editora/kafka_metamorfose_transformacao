@@ -28,9 +28,9 @@
 
 \lhead[\fancyplain{}]{}
 \chead[\fancyplain{}]{}
-\rhead[\fancyplain{}]{ -- \thepage}
+\rhead[\fancyplain{}]{\cnvt{\thepage} -- \thepage}
 
-
+\newcommand*{\cnvt}[1]{\the\numexpr#1-1\relax}
 
 %--------------------------------------------ALTERAR DISTÃNCIA ENTRE TÍTULO DO SUMÁRIO E CAPÍTULOS
 %\addtocontents{toc}{\vskip-15pt}

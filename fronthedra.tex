@@ -1,6 +1,8 @@
 \AtBeginDocument{%
-\begingroup\pagestyle{empty}\raggedleft\parindent0pt
-\titulagemfront{}
+\begingroup\pagestyle{empty}\raggedright\parindent0pt
+\Huge{\titulagemfront{}}
+\vspace{15mm}
+\LARGE{\autor}
 \vfill
 \clearpage
 
@@ -47,12 +49,13 @@ editora@hedra.com.br\\
 www.hedra.com.br\\
 \bigskip
 Foi feito o depósito legal.\\\endgroup
-\pagebreak\raggedleft
+\pagebreak\raggedright
 %% Front ---------------------------------------------------------
 % Titulo
-\titulagem
+\Huge{\titulagem}
+\vspace{15mm}
 
-{\Large \autor \par\vspace{1.5ex}}
+{\LARGE{\autor} \par\vspace{1.5ex}}
 \ifdef{\organizador}{{\small {\organizador} (\textit{organização})} \par}{}
 \ifdef{\introdutor}{{\small {\introdutor} (\textit{prefácio})} \par}{}
 \ifdef{\tradutor}{{\small {\tradutor} (\textit{tradução})}\par}{}\vspace{1.5cm}

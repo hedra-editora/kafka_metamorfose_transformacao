@@ -6,15 +6,15 @@
 \newcommand{\LarguraFront}{\textwidth}
 \newcommand{\TamanhoTitulo}{\Huge}
 \newcommand{\titulagemfront}{\IfFileExists{front.png}{\DistanciaImagemFront\includegraphics[width=\LarguraFront]{front.png}}%
-  {\begingroup\vspace*{.012\textheight} 
+  {\begingroup\vspace*{.001\textheight} 
                       \TamanhoTitulo \baselineskip=.67\baselineskip 
-                        \MakeTextLowercase{\textsc{\titulo}} 
+                        \titulo%\MakeTextLowercase{\textsc{\titulo}} 
                        \par
                    \ifdef{\subtit}{\smaller[3] \textit{\subtit}\par\medskip}{}\endgroup}}
 
-\newcommand{\titulagem}{{\vspace*{.012\textheight} 
+\newcommand{\titulagem}{{\vspace*{.001\textheight} 
                       \TamanhoTitulo \baselineskip=.67\baselineskip 
-                        \MakeTextLowercase{\textsc{\titulo}} 
+                        \titulo%\MakeTextLowercase{\textsc{\titulo}} 
                        \par
                    \ifdef{\subtit}{\smaller[3] \textit{\subtit}\par\medskip}{}}}
 

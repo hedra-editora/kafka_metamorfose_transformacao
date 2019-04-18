@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  18 APR 2019 16:14
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  18 APR 2019 16:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1727,36 +1727,40 @@ l,
 AED: lastpage setting LastPage
 \openout2 = `PUBLICIDADE.aux'.
 
-(/home/editorial/texmf/tex/PUBLICIDADE.tex
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
+(./PUBLICIDADE.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--8
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
  []
 
-Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
-Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+
+Underfull \hbox (badness 3312) in paragraph at lines 34--35
+[]\TU/LinuxLibertineO(0)/m/it/12 Livro dos mandamentos: 248 preceitos positivos
+\TU/LinuxLibertineO(0)/m/n/12 ,
+ []
+
 [106
 
 
 
 
-]
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
- [107]
+] [107] [108] [109] [110]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [108] [109])
+ [111] [112]
+Underfull \hbox (badness 1694) in paragraph at lines 209--210
+[]\TU/LinuxLibertineO(0)/m/it/12 Lulismo, carisma pop e cultura anticrítica\TU/
+LinuxLibertineO(0)/m/n/12 , Tales
+ []
+
+[113] [114] [115])
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 136.
- [110
-
+ [116
 
 ]
 \tf@toc=\write5
@@ -1764,12 +1768,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26334 strings out of 492998
- 482782 string characters out of 6139960
+ 26325 strings out of 492998
+ 482204 string characters out of 6139960
  723853 words of memory out of 5000000
- 29822 multiletter control sequences out of 15000+600000
- 542102 words of font info for 102 fonts, out of 8000000 for 9000
+ 29816 multiletter control sequences out of 15000+600000
+ 541964 words of font info for 99 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
- 48i,14n,86p,10384b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,14n,86p,10384b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (110 pages, 1698708 bytes).
+Output written on LIVRO.xdv (116 pages, 1713304 bytes).

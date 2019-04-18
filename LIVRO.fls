@@ -308,8 +308,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT TEXTO.tex
 INPUT TEXTO.tex
 OUTPUT PUBLICIDADE.aux
-INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
-INPUT /home/editorial/texmf/tex/PUBLICIDADE.tex
+INPUT PUBLICIDADE.tex
+INPUT PUBLICIDADE.tex
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm

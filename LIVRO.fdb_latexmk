@@ -1,10 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1555614883 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1555614883
-  "LIVRO.xdv" 1555614883 1698708 9326e0bda70ea37ecf021aab0d632aad "xelatex"
+["xdvipdfmx"] 1555616627 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1555616628
+  "LIVRO.xdv" 1555616627 1713304 b3b9ee788590281c3aa652d17510906a "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1555614867 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1555614883
-  "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1554238792 10790 96c766e00e9b32ca67d3577868082db2 ""
+["xelatex"] 1555616612 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1555616628
   "/home/editorial/texmf/tex/aparatos.sty" 1496083773 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1496083773 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/editorial/texmf/tex/frontconselho.tex" 1522961913 226 584f41f462c1f25d6bb931b7ede1fa94 ""
@@ -156,25 +155,26 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1501615463 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1509478212 4066395 6b322c5d2cda5c7d3fa6f2e6378d2f25 ""
-  "INPUTS.aux" 1555614883 1882 635f3117902909ae0ef718e73b3ed247 ""
+  "INPUTS.aux" 1555616627 1882 2bf6fda7300646afc5ec3408c97f9442 ""
   "INPUTS.tex" 1555346987 59 154656bfa57a9735928419b38ca87e20 ""
   "INTRO.tex" 1555446665 30743 e9fdaf62cc7644c99cb2b6f33a6b7d3a ""
-  "LIVRO.aux" 1555614883 501 7f797fd8af1b45dd20101a14e8b04d00 ""
+  "LIVRO.aux" 1555616627 501 4e034ab86fa215619a89997ef186201a ""
   "LIVRO.tex" 1555614103 3741 0928bb960dacfee23026c91f05faddec ""
-  "LIVRO.toc" 1555614883 231 a7a8379ebcf51fbfbaad474db1c6402b ""
+  "LIVRO.toc" 1555616627 231 a7a8379ebcf51fbfbaad474db1c6402b ""
   "PRETAS.tex" 1555441142 2422 5ba0a713a9a556b733c9be7c787694f1 ""
-  "PUBLICIDADE.aux" 1555614883 1708 5442c4809ebb3067847a2d7b31e7b8da ""
+  "PUBLICIDADE.aux" 1555616627 1708 a063afe6b72605dfd33fdbc0ab94c779 ""
+  "PUBLICIDADE.tex" 1555616613 11728 5582061574af9aeb44f7e0fb0df5e2ab ""
   "TEXTO.tex" 1555446532 121297 95779545eb8169c014f173c791e0a025 ""
   "fichatecnica.sty" 1555438919 2316 1d10342e11548ab85099c380736628cc ""
   "fronthedra.tex" 1555614865 3985 409b051f18b3fdeff18459b36b70b09c ""
   "frontlayout.sty" 1555614735 1472 a89e29a764e5479ee07ad8cb5d512c90 ""
-  "gitrevisioninfo.sty" 1555614867 35 8e6d735aca9da8c9be1564919b77c4a0 ""
+  "gitrevisioninfo.sty" 1555616612 35 f066d3c65fce1cbaaea71b5e22724541 ""
   "hedraextra.sty" 1555346913 6390 65a9b8588c7612c4e2512564697fa8c1 ""
   "hedraoptions.sty" 1555450109 3589 9fab769cbeabd384b5862a8cfc7f3d7e ""
   (generated)
-  "LIVRO.aux"
   "LIVRO.log"
+  "LIVRO.xdv"
   "LIVRO.toc"
   "INPUTS.aux"
+  "LIVRO.aux"
   "PUBLICIDADE.aux"
-  "LIVRO.xdv"

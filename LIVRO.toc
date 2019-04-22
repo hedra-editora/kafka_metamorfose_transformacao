@@ -1,5 +1,0 @@
-\select@language {brazilian}
-\hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Introdução, \emph {por Celso Donizete Cruz} \vspace \medskipamount }{7}
-\contentsline {chapter}{A metamorfose}{29}
-\contentsfinish 

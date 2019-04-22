@@ -20,6 +20,12 @@
 
 \newcommand{\sumario}{\begingroup\mbox{}\pagestyle{empty}\pagebreak\ifodd\thepage\paginabranca\fi
                     \addtocontents{toc}{\hyphenpenalty=10000\protect\thispagestyle{empty}}
+                    
+                    %\hspace*{-1.5cm}
+                    {\Formular{\Huge{\titulagemfront{}}}}
+					\vspace{11.25mm}					
+					{\LARGE{\autor}}
+					\vspace{8.5cm}
                     \def\contentsname{Sumário}
                     \tableofcontents*\clearpage\endgroup}
 \newcommand{\publicidade}{\pagebreak\pagestyle{empty}\parindent0pt

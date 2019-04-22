@@ -283,12 +283,6 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /home/editorial/texmf/tex/frontconselho.tex
 INPUT /home/editorial/texmf/tex/frontconselho.tex
-INPUT /usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-INPUT /usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-INPUT /usr/share/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
 INPUT PRETAS.tex
 INPUT PRETAS.tex
 INPUT PRETAS.tex

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  18 APR 2019 16:52
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.10.31)  22 APR 2019 17:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1405,29 +1405,29 @@ s
 \f@nch@O@olf=\skip278
 \f@nch@O@orf=\skip279
 )
-\g__fontspec_family_Formular-Regular_int=\count344
+\g__fontspec_family_Formular-Bold_int=\count344
 .................................................
 . fontspec info: "defining-font"
 . 
-. Font family 'Formular-Regular(0)' created for font 'Formular-Regular' with
-. options [Microtype,Ligatures=TeX].
+. Font family 'Formular-Bold(0)' created for font 'Formular-Bold' with options
+. [Microtype,Ligatures=TeX].
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
 . - 'normal' (m/n) with NFSS spec.:
-. <->"Formular-Regular/OT:script=latn;language=DFLT;protrusion=default,
+. <->"Formular-Bold/OT:script=latn;language=DFLT;protrusion=default,
 . expansion=default;mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.:
-. <->"Formular-Regular/B/OT:script=latn;language=DFLT;protrusion=default,
+. <->"Formular-Bold/B/OT:script=latn;language=DFLT;protrusion=default,
 . expansion=default;mapping=tex-text;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 . - 'italic' (m/it) with NFSS spec.:
-. <->"Formular-Regular/I/OT:script=latn;language=DFLT;protrusion=default,
+. <->"Formular-Bold/I/OT:script=latn;language=DFLT;protrusion=default,
 . expansion=default;mapping=tex-text;"
 . - 'italic small caps'  (m/itsc) with NFSS spec.: 
 . - 'bold italic' (bx/it) with NFSS spec.:
-. <->"Formular-Regular/BI/OT:script=latn;language=DFLT;protrusion=default,
+. <->"Formular-Bold/BI/OT:script=latn;language=DFLT;protrusion=default,
 . expansion=default;mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 .................................................
@@ -1573,14 +1573,14 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Unknown feature `protrusion=default' in font `Formular'.
-Unknown feature `expansion=default' in font `Formular'.
+Unknown feature `protrusion=default' in font `Formular Bold'.
+Unknown feature `expansion=default' in font `Formular Bold'.
 Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `Formular-Regular' (encoding: TU).
+(microtype)             `Formular-Bold' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-Unknown feature `protrusion=default' in font `Formular'.
-Unknown feature `expansion=default' in font `Formular'.
+Unknown feature `protrusion=default' in font `Formular Bold'.
+Unknown feature `expansion=default' in font `Formular Bold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
  [1
@@ -1613,34 +1613,26 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
  [2
 
 ]
-Unknown feature `protrusion=default' in font `Formular'.
-Unknown feature `expansion=default' in font `Formular'.
+Unknown feature `protrusion=default' in font `Formular Bold'.
+Unknown feature `expansion=default' in font `Formular Bold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 137.
-
-
-(/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(/usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
-File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
-) [3] (./PRETAS.tex
+ [3] (./PRETAS.tex
 Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
-)
-[4
+) [4
 
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- (./LIVRO.toc
+
+(./LIVRO.toc
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 ) [5]
@@ -1729,12 +1721,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 26325 strings out of 492998
- 482204 string characters out of 6139960
- 723831 words of memory out of 5000000
- 29816 multiletter control sequences out of 15000+600000
- 541964 words of font info for 99 fonts, out of 8000000 for 9000
+ 26224 strings out of 492998
+ 480446 string characters out of 6139960
+ 720569 words of memory out of 5000000
+ 29721 multiletter control sequences out of 15000+600000
+ 540950 words of font info for 97 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  48i,14n,86p,10384b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (116 pages, 1713168 bytes).
+Output written on LIVRO.xdv (116 pages, 1712744 bytes).

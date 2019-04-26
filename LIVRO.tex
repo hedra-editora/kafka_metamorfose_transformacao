@@ -19,6 +19,21 @@
 
 \linespread{1.15}
 
+\usepackage{endnotes}
+\renewcommand{\notesname}{Notas}
+
+%\counterwithin*{endnote}{part}
+%\counterwithin*{endnote}{chapter}
+
+\let\latexchapter\chapter
+\makeatletter
+\renewcommand\enoteheading{%
+  \setcounter{secnumdepth}{-2}
+  \latexchapter*{\notesname\markboth{NOTAS}{}}
+  \mbox{}\par\vskip-\baselineskip
+  \let\@afterindentfalse\@afterindenttrue
+}
+\makeatother
 %\usepackage{fancyhdr}
 %\pagestyle{fancy}
 %\setlength{\headheight}{9mm}

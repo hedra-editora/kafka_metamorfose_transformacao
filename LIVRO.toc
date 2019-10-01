@@ -2,5 +2,14 @@
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Introdução, \emph {por Celso Donizete Cruz}}{7}
 \contentsline {part}{A Metamorfose}{25}
-\contentsline {chapter}{Notas}{103}
+\select@language {brazilian}
+\select@language {brazilian}
+\select@language {ngerman}
+\contentsline {section}{I}{26}
+\select@language {brazilian}
+\contentsline {section}{I}{27}
+\contentsline {section}{II}{76}
+\contentsline {section}{II}{77}
+\contentsline {section}{III}{130}
+\contentsline {section}{III}{131}
 \contentsfinish 

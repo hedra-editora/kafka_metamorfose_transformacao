@@ -1,4 +1,4 @@
-\documentclass[semcabeco,showtrims,12pt,conselho,spreadimages]{memoir}
+\documentclass[semcabeco,showtrims,trimframe,12pt,conselho,spreadimages]{memoir}
 
 \usepackage[largepost]{hedraoptions} %% << %%%%%%%%%%%%%%%%
 \usepackage[baruch]{hedrastyles}
@@ -24,7 +24,13 @@
 \usepackage{endnotes}
 \renewcommand{\notesname}{Notas}
 
+\newcommand{\paragraphbr}[1]{\vfill\pagebreak\paragraph{#1}}
+\renewcommand\theparagraph{\Roman{paragraph}}
 \newcommand{\quebra}{\vfil\pagebreak}
+\newcommand{\est}{\vspace{10cm}}
+\newenvironment{mesma}%
+   {\par\samepage}%
+   {\par\pagebreak[0]}
 
 %\counterwithin*{endnote}{part}
 %\counterwithin*{endnote}{chapter}
@@ -69,10 +75,10 @@
 
 \usepackage{fontspec}
 
-\usepackage{Formular}
+%\usepackage{Formular}
 \newfontfamily\Formular{Formular-Regular}[
 BoldFont = Formular-Bold.otf]	
-\newcommand{\Formular}[1]{#1}
+%\newcommand{\Formular}[1]{#1}
 
 %--------------------------------------------ALTERAR DISTÃNCIA ENTRE TÍTULO DO SUMÁRIO E CAPÍTULOS
 %\addtocontents{toc}{\vskip-15pt}

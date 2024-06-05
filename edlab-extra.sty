@@ -76,8 +76,17 @@
 
 % Comando para fazer subtítulo
 \newcommand{\subtitulo}[1]{\NoCaseChange{\textnormal{\break\Large\itshape#1}}}
-\newcommand{\chapterspecial}[2]{%
- \chapter[#1]%
-     {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
-\markright{#1}}
+\newcommand{\autorcapitulo}[1]{\hfill
+  \begin{minipage}{.6\textwidth}
+  \begin{flushright}\MakeLowercase{{\scshape #1}}\end{flushright}
+  \end{minipage}
+\bigskip\par}
+
+% Definições de disposição de autores e subtítulos
+\newcommand{\tocquebratitautor}{, por}
+\newcommand{\chapterspecial}[3]{%
+  \chapter[#1\ifx#3\relax\else\textit{\tocquebratitautor{} #3}\fi]%
+      {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
+  \ifx#3\relax\else\autorcapitulo{#3}\fi
+\markboth{#1}{#3}}
 

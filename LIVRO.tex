@@ -58,24 +58,20 @@
 \newfontfamily\brabo{FS Brabo Pro Regular}
 \setmainfont[Ligatures=TeX,Numbers=OldStyle]{Minion Pro}
 
-
 % Estilos
+
 \makeoddhead{baruch}{}{\scshape\MakeLowercase{\scshape\MakeTextLowercase{}}}{}
-\makeevenhead{baruch}{}{\scshape\MakeLowercase{}}{}
+\makeevenhead{baruch}{}{\scshape{}}{}
 \makeevenfoot{baruch}{}{\footnotesize\thepage}{}
 \makeoddfoot{baruch}{}{\footnotesize\thepage}{}
 \pagestyle{baruch}		
 \headstyles{baruch}
 
+
 % Testes
-
-
 \begin{document}
-
-
 %\input{MUSSUMIPSUM}  		% Teste da classe
 \include{INPUTS}
-
 
 \checkandfixthelayout
 \end{document}

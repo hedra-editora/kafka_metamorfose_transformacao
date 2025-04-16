@@ -2,9 +2,7 @@
 *.log
 *.aux
 *.toc
-*.pdf
 *.idx
-*.ind
 *.ilg
 *_latexmk 
 *.fls 
